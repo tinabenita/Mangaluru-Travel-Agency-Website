@@ -1,5 +1,5 @@
 body {
-    background: #03045E;
+    background: black;
     color: white;
     font-weight: bold;
     font-size: medium;
@@ -58,12 +58,13 @@ img {
 }
 
 .btn:hover{
-    background: #00B4D8;
+    background: #7ebef2;
+    color: #03045E;
 }
 
 footer {
-    background: #0096C7;
-    color: black;
+    background: #0690be;
+    color: whitesmoke;
     height: 50px;
     line-height: 50px;
     
@@ -76,12 +77,12 @@ h2, h3 {
 }
 
 .contact {
-    background:  #0077B6;
+    background:  #006297;
     min-height: 100px;
 }
 
 .prices {
-    background:#023E8A;
+    background:#012a60;
     min-height: 100px;
     
     
